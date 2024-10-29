@@ -85,7 +85,7 @@ img{/*图片设置*/
 }
 span{
     /*>>>行内设置*/
-    float: right;
+    float: none;
 }
 span p{/*>>>行内段落设置*/
     font-size: small;
